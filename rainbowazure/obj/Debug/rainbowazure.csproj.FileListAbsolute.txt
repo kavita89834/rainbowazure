@@ -1,0 +1,7 @@
+C:\Users\HP\Documents\mphasis\phase-3\rainbowazure\rainbowazure\bin\Debug\rainbowazure.exe.config
+C:\Users\HP\Documents\mphasis\phase-3\rainbowazure\rainbowazure\bin\Debug\rainbowazure.exe
+C:\Users\HP\Documents\mphasis\phase-3\rainbowazure\rainbowazure\bin\Debug\rainbowazure.pdb
+C:\Users\HP\Documents\mphasis\phase-3\rainbowazure\rainbowazure\obj\Debug\rainbowazure.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\mphasis\phase-3\rainbowazure\rainbowazure\obj\Debug\rainbowazure.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\mphasis\phase-3\rainbowazure\rainbowazure\obj\Debug\rainbowazure.exe
+C:\Users\HP\Documents\mphasis\phase-3\rainbowazure\rainbowazure\obj\Debug\rainbowazure.pdb
